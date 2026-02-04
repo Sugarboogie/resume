@@ -34,7 +34,7 @@
 - Chrome DevTools (Network / Console)  
 - SQL (простые SELECT-запросы, WHERE, LIKE, JOIN — базово)  
 - Git / GitHub  
-- Jira / Yandex Tracker / swagger / kaiten 
+- Jira / Yandex Tracker / kaiten 
 - PyCharm / VS Code  
 
 ### Python
@@ -49,12 +49,12 @@
 
 ## Обучение
 - Курсы ИТМО — ручное и автоматизированное тестирование  
-- Книга «Тестирование программного обеспечения», С. Канер  
+- Книга «Тестирование программного обеспечения», С. Канер, а так же основы юнит-тестирования  
 
 ---
 
 ## Технологический стек
-Python, Pytest, Postman, SQL, Git, DevTools, HTML/CSS,
+Python, Pytest, Postman, Swagger, SQL, Git, DevTools, HTML/CSS,
 
 
 Тест-кейсы и баг-репорты на пэт-проектах и в технической поддержке.
